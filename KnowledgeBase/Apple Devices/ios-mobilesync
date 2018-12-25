@@ -1,0 +1,43 @@
+<p class="ng-scope">This article will assist you with setting up an Apple iOS mobile device, using Mobile Sync, for your Hosted Mailbox. This article assumes that you have iOS 10 installed. If you have a previous version, the screenshots below may not align exactly. We recommend running the latest version of the Apple iOS operating system. This will ensure your phone has the latest features and security patches.</p>
+<ol class="ng-scope"><ol class="ng-scope">
+<li>From your iOS device, tap the "<strong>Settings</strong>" icon.</li>
+</ol></ol>
+<p><img src="/account/downloads/img/iOS_step_0_ms.png" alt="" /></p>
+<ol class="ng-scope"><ol class="ng-scope">
+<li>Tap "<strong>Mail</strong>".</li>
+</ol></ol>
+<p><img src="/account/downloads/img/PUuvsA6Y.png" alt="" /></p>
+<ol class="ng-scope"><ol class="ng-scope">
+<li>Tap "<strong>Add Account</strong>".</li>
+</ol></ol>
+<p><img src="/account/downloads/img/iOS_step_2_ms.png" alt="" /></p>
+<ol class="ng-scope"><ol class="ng-scope">
+<li>Tap "<strong>Exchange</strong>".</li>
+</ol></ol>
+<p><img src="/account/downloads/img/iOS_step_3_ms.png" alt="" /></p>
+<ol class="ng-scope"><ol class="ng-scope">
+<li>Enter the following information:</li>
+<ol>
+<li class="ng-binding">"<strong>Email</strong>": Your email address</li>
+<li>"<strong>Password</strong>": Enter your mailbox password.</li>
+<li>"<strong>Description</strong>": Exchange</li>
+</ol></ol></ol>
+<p><img src="/account/downloads/img/iOS_step_4_ms.png" alt="" /></p>
+<ol class="ng-scope"><ol class="ng-scope">
+<li>Tap "<strong>Next</strong>".</li>
+<li>A few additional boxes should appear. Enter the following information:</li>
+<ol>
+<li class="ng-binding">"<strong>Server</strong>": mobilesync.emailsrvr.com</li>
+<li>"<strong>Domain</strong>": Leave blank</li>
+<li class="ng-binding">"<strong>Username</strong>": Your email address</li>
+</ol></ol></ol>
+<p><img src="/account/downloads/img/iOS_step_5_ms.png" alt="" /></p>
+<ol class="ng-scope"><ol class="ng-scope">
+<li>Tap "<strong>Save</strong>".</li>
+<li>In the next screen, select the items you wish to sync.</li>
+</ol></ol>
+<p><img src="/account/downloads/img/iOS_step_6_ms.png" alt="" /></p>
+<ol class="ng-scope">
+<li>Tap "<strong>Save</strong>".</li>
+<li>Now you're done! Launch the Mail app. Your email should appear within a few minutes, depending on the amount of items to sync.</li>
+</ol>
