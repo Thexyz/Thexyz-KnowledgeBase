@@ -1,0 +1,44 @@
+If you already have an account setup and want to add an additional account, click here for instructions. This article supposes you don't have any accounts setup. <br /><br /><ol class="ng-scope"><ol class="ng-scope">
+<li>From the <strong>Home</strong> menu, open the <strong>Email</strong> app.</li>
+</ol></ol>
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-10 col-lg-8"><img src="https://www.thexyz.com/account/downloads/img/amazon_mobilesync_1.png" alt="" /></div>
+</div>
+<br /><ol class="ng-scope"><ol class="ng-scope">
+<li>Enter your email address: <strong class="ng-binding">Your email address<br /></strong></li>
+<li>Tap <strong>Next</strong></li>
+</ol></ol>
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-10 col-lg-8"><img src="https://www.thexyz.com/account/downloads/img/amazon_mobilesync_2.png" alt="" /></div>
+</div>
+<br /><ol class="ng-scope"><ol class="ng-scope">
+<li>Enter your password</li>
+<li>Tap <strong>Next</strong></li>
+</ol></ol>
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-10 col-lg-8"><img src="https://www.thexyz.com/account/downloads/img/amazon_mobilesync_2.png" alt="" /></div>
+</div>
+<br /><ol class="ng-scope"><ol class="ng-scope">
+<li>If prompted, tap <strong>OK</strong></li>
+</ol></ol>
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-10 col-lg-8"><img src="https://www.thexyz.com/account/downloads/img/HEX_ActiveSyncMDM.png" alt="" /></div>
+</div>
+<br /><ol class="ng-scope"><ol class="ng-scope">
+<li class="ng-binding">If prompted for these settings, enter the following information <br /> <br /> <strong>Exchange server:</strong> mobilesync.emailsrvr.com <br /> <strong>Username:</strong> Your email address <br /> <strong>Password:</strong> Your password <br /> <strong>Domain:</strong> *leave blank*</li>
+</ol></ol>
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-10 col-lg-8"><img src="https://www.thexyz.com/account/downloads/img/amazon_mobilesync_3.png" alt="" /></div>
+</div>
+<br /><ol class="ng-scope"><ol class="ng-scope">
+<li>Tap <strong>Activate</strong> on the Activate device administrator screen</li>
+</ol></ol>
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-10 col-lg-8"><img src="https://www.thexyz.com/account/downloads/img/HEX_MDM2.png" alt="" /></div>
+</div>
+<br /><ol class="ng-scope"><ol class="ng-scope">
+<li><strong>You're all set!</strong> Tap <strong>Go to Inbox</strong> to be taken to the inbox. It may take a few minutes for the email to populate, depending on the amount of data.</li>
+</ol></ol>
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-10 col-lg-8"><img src="https://www.thexyz.com/account/downloads/img/amazon_mobilesync_4.png" alt="" /></div>
+</div>
