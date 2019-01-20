@@ -4,10 +4,10 @@ DKIM adds a secure signature to your domain to authenticate email sent from user
 <li>Spend less time working with users after they have fallen for phishing attempts</li>
 <li>Increase confidence that emails sent from your users are not fraudulent</li>
 </ul>
-<p>DKIM (Domain Keys Identified Mail) enables email providers that receive mail from your domain to verify whether or not messages from your domain are in fact authentic and not fraudulent. This level of email authentication is made possible through the use of public / private key encryption and information stored in your domain's DNS.</p>
+<p>DKIM (Domain Keys Identified Mail) enables email providers that receive mail from your domain to verify whether or not messages from your domain are in fact authentic and not fraudulent. This level of email authentication is made possible through the use of public / private key encryption, digital signatures and information stored in your domain's DNS.</p>
 <p><strong>How does it work?</strong></p>
 <p>When a message is sent from your domain, it is ‘signed’ using the private key and various parts of the message headers and/or content. These parts are specified in the signature.</p>
-<p>The receiving mail server of the message can use the public key specified in your domain’s DKIM TXT record to validate the signature. This DKIM TXT record is added to the dns records of the domain name. If the validation is successful, then the receiver can assume the message came from a legitimate source. If the signature fails, then the receiver can choose whether or not to trust the message.</p>
+<p>The receiving mail server of the email message can use the public key specified in your domain’s DKIM TXT record to validate the signature. This DKIM TXT record is added to the dns records of the domain name. If the validation is successful, then the receiver can assume the message came from a legitimate sending domain. If the signature fails, then the receiver can choose whether or not to trust the message.</p>
 <p>Each domain will have its own unique DKIM key and signature.</p>
 <p>Example:</p>
 <p><code> <strong>DKIM Record Host:</strong> &lt;selector&gt;._domainkey </code></p>
