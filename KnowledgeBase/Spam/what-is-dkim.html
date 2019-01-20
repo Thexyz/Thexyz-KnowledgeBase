@@ -1,0 +1,16 @@
+DKIM adds a secure signature to your domain to authenticate email sent from users in your company. DKIM is an industry best practice that increases the security of your email domains:
+<ul class="cp-canon-default ng-scope" style="margin-top: 10px; margin-bottom: 10px;">
+<li>Spend less time removing your domains from blacklists</li>
+<li>Spend less time working with users after they have fallen for phishing attempts</li>
+<li>Increase confidence that emails sent from your users are not fraudulent</li>
+</ul>
+<p class="ng-scope">DKIM (Domain Keys Identified Mail) enables email providers that receive mail from your domain to verify whether or not messages from your domain are in fact authentic and not fraudulent. This level of email authentication is made possible through the use of public / private key encryption and information stored in your domain's DNS.</p>
+<p class="ng-scope"><strong>How does it work?</strong></p>
+<p class="ng-scope">When a message is sent from your domain, it is ‘signed’ using the private key and various parts of the message headers and/or content. These parts are specified in the signature.</p>
+<p class="ng-scope">Recipients of the message can use the public key specified in your domain’s DKIM TXT record to validate the signature. If the validation is successful, then the receiver can assume the message came from a legitimate source. If the signature fails, then the receiver can choose whether or not to trust the message.</p>
+<p class="ng-scope">Each domain will have its own unique DKIM key and signature.</p>
+<p class="ng-scope">Example:</p>
+<p class="ng-scope"><code> <strong>DKIM Record Host:</strong> &lt;selector&gt;._domainkey </code></p>
+<p class="ng-scope"><code> <strong>DKIM Record Value:</strong> v=DKIM1; k=rsa; p=&lt;encrypted key&gt; </code></p>
+<p class="ng-scope">In addition to validating the original source of the message, these signatures ensure that the message has not been altered in transit by any third parties.</p>
+<p class="ng-scope">You can see <strong><a title="How to enable DKIM" href="https://www.thexyz.com/account/index.php/knowledgebase/79/How-to-enable-DKIM-Authentication-on-your-domain.html">this guide</a></strong> on how to enable DKIM via the admin control panel. Contact <a title="Contact support" href="https://www.thexyz.com/support.html">Support</a> if you have questions about enabling DKIM on your email domains.</p>
